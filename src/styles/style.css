@@ -1,0 +1,22 @@
+.color-text {
+    background-color:rgb(253, 183, 6);
+    font-family: Arial;
+    display: inline-block;
+    box-sizing: border-box;
+    width: 750px;
+    padding-left: 40px;
+    margin: 100px 10px 10px 0;
+}
+.pic {
+    float: left;
+    display: inline-block;
+    width:420px; height:360px;
+    margin: 100px 100px 100px 100px;
+}
+.text-info {
+    font-family: Arial;
+    font-size: 20px;
+    display: inline-block;
+    box-sizing: border-box;
+    width: 825px;
+}
